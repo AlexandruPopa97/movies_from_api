@@ -6,6 +6,7 @@ In my app you cand filter the movies by:
 3) Quality 
 Also you cand choose the amount of columns by pressing the current number of columns. The number of columns is limited between 1 and 3.
 
+Some pictures of the app:  
 <img src="https://i.imgur.com/8w5Rwvk.png" width="400" height="800">  
 <img src="https://i.imgur.com/76IrCaY.png" width="400" height="800">  
 <img src="https://i.imgur.com/enzq2KV.png" width="400" height="800">  
